@@ -1,0 +1,20 @@
+body {
+    background: cyan;
+    transition: 2s;
+    @media (min-width: 500px) {
+        background: rgb(255, 0, 0);
+    }
+
+    @media (min-width: 800px) {
+        background-color: rgb(234, 255, 4);
+    }
+
+    @media (min-width: 1000px) {
+        background-color: deeppink;
+    }
+
+    @media (min-width: 1200px) {
+        background-color: rgb(47, 255, 0);
+    }
+
+}
