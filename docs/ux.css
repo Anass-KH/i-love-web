@@ -1,0 +1,6 @@
+dialog::backdrop{
+    /* background-color: cyan; */
+    backdrop-filter: blur(.5em);
+    background-color: #f008;
+    /* background-color:rgb(255 0 0 / 2); */
+}
